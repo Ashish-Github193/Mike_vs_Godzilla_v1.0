@@ -5,3 +5,5 @@ Few days ago a tribe of wild godzillas went mad on humans for no reason and now 
 ![pygame](https://user-images.githubusercontent.com/79639825/136611192-1386e2b2-51e5-481b-baec-9ba2c6200bb9.png)
 
 Made with Pygame
+
+Compiled full game link: https://www.mediafire.com/file/7f73upk17y4re0w/God_vs_mke_game.rar/file
